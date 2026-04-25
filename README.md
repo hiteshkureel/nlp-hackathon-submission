@@ -19,3 +19,11 @@ TF-IDF + Logistic Regression
 - submission_challenge1.csv
 - submission_challenge2.csv
 - submission_challenge3.csv
+
+## Results
+
+- Challenge 1: F1 Score - Basic model performance using TF-IDF and Logistic Regression
+- Challenge 2: Accuracy - Model trained and evaluated on labeled dataset
+- Challenge 3: ROC-AUC - Predictions generated using trained model
+
+Note: Metrics are based on training data evaluation.
